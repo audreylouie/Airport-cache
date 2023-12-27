@@ -1,5 +1,6 @@
 # Airport-cache
-Simulation of page replacement algorithms for FIFO and LRU
+Simulation of page replacement algorithms for FIFO and LRU.
+
 We will use airport.csv file as a file backing up the cache, and simulate the situation where a user searches the information about an airport using its three-letter code (e.g., JFK, LGA, etc.)
 
 # Methods - Interface Cache
